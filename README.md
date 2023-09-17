@@ -205,7 +205,7 @@ local Descrip = AutoParry:CreateButton({
    Callback = function()
     Rayfield:Notify({
    Title = "Credits",
-   Content = "Auto Parry By infernokarl (Discord User)",
+   Content = "Auto Parry By Makuro#8773 (Discord User)",
    Duration = 60,
    Image = 4483362458,
    Actions = { -- Notification Buttons
@@ -410,7 +410,7 @@ local Descrip = Main:CreateButton({
    Callback = function()
     Rayfield:Notify({
    Title = "Credits",
-   Content = "Discord invite (If you forgot to join, and wanted to): discord.gg/hNX8VxcjMF",
+   Content = "Discord invite (If you forgot to join, and wanted to): https://discord.gg/AChkuEy2",
    Duration = 60,
    Image = 4483362458,
    Actions = { -- Notification Buttons
